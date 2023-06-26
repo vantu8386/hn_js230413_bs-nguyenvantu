@@ -1,0 +1,34 @@
+.layThongTin{
+    display: flex;
+    background-color: #e6e6e6;
+    width: 90%;
+    height: 500px;
+}
+.contactInfor{
+    background-color: #19225c;
+    color: white;
+    padding-left: 3%;
+    width: 30%;
+}
+.contactInfor input{
+    width: 90%
+}
+
+.contactUs{
+    padding-left: 3%;
+    width: 60%; 
+}
+
+.contactUs input{
+    width: 90%
+}
+.contactUs textarea{
+    width: 90%
+}
+.contactUs button{
+    background-color: #19225c;
+    color: white;
+    padding: 1%;
+    border-radius: 5px;
+    margin-left: 45%;
+}
